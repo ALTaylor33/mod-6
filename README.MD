@@ -4,3 +4,4 @@ When completed the user can enter a city and get the current weather and a 5 day
 
 local storage will be used to store the users history and have it displayed on the site.
 
+*insert a screen shot of the page
